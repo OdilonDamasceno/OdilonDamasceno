@@ -15,5 +15,5 @@
 
 - ⚡ Fun fact: I love this gif :3
 
-![](./gif.gif =200x)
+![](./gif.gif)
 
