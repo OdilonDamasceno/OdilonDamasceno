@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: [E-mail](mailto:odilondamsceno@protonmail.com)
 
-- 😄 Pronouns: Odjilon (If your are BR pronounce Odilon)
+- 😄 Pronounce: Odjilon (If your are BR pronounce Odilon)
 
 - ⚡ Fun fact: I love this gif :3
 
