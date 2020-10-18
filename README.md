@@ -9,7 +9,7 @@
 
 <!--- 💬 Ask me about ...-->
 
-- 📫 How to reach me: [E-mail](mailto:odilondamsceno@protonmail.com)
+- 📫 How to reach me: [E-mail](mailto:odilondamasceno@protonmail.com)
 
 - Languages: Dart, JavaScript, C/C++, Go, Rust, Perl
 
