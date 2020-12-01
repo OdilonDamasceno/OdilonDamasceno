@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--- 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning: [Go](https://golang.org/), [Lisp](https://lisp-lang.org/)
+- 🌱 I’m currently learning: [Lua](https://www.lua.org/), [Lisp](https://lisp-lang.org/)
 
 <!--- 👯 I’m looking to collaborate on ... -->
 
