@@ -1,18 +1,23 @@
-### Hi there 👋
+<div align=center>
 
-<!--- 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning: [Lua](https://www.lua.org/), [Lisp](https://lisp-lang.org/)
+# Welcome to my repository
 
-<!--- 👯 I’m looking to collaborate on ... -->
+## How to reach me
 
-<!--- 🤔 I’m looking for help with ...-->
+[![mailto](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto://odilondamasceno@protonmail.com) [![ig](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/odidamasceno/) [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sirskey) [![reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/SirSkey) [![gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/OdilonDamasceno) [![twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/sirskey)
 
-<!--- 💬 Ask me about ...-->
 
-- 📫 How to reach me: [E-mail](mailto:odilondamasceno@protonmail.com)
+## My current OS <3
 
-- Languages: Dart, JavaScript, C/C++, Go, Rust, Perl
+[![arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://aur.archlinux.org/account/Skey/)
 
-- ⚡ Fun fact: I love this gif :3
 
-<img src="./gif.gif" height=200/>
+## Skills
+
+![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white) ![flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
+
+## Github Stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=OdilonDamasceno&show_icons=true&theme=radical) ![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=OdilonDamasceno&layout=compact)
+
+</div>
