@@ -20,4 +20,8 @@
 
 ![stats](https://github-readme-stats.vercel.app/api?username=OdilonDamasceno&show_icons=true&theme=radical) ![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=OdilonDamasceno&layout=compact)
 
+## Wakatime
+
+![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=odilondamasceno&layout=compact)
+
 </div>
